@@ -1,5 +1,6 @@
 import  { dades } from "./dades.js"
 import { validaNouUsuari } from "./validaNouUsuari.js"
+
 export const usuari = {
     /*
     Utiliza find
